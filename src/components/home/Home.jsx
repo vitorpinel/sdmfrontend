@@ -22,7 +22,6 @@ class Home extends React.Component{
         return(
                 <section id="page-title">
                     <div className="container clearfix">
-                    
                     </div>
                 </section>
         )
